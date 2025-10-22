@@ -1,7 +1,7 @@
 <h1 align="center"> FP Project - Goban </h1>
 
 <p align="center">
-  <img src="fp-hero-image.png" alt="Go Game" width="350"/>
+  <img src="fp-hero-image.jpg" alt="Go Game" width="350"/>
 </p>
 
 This repository contains the projects for the "Fundamentos da Programação" (Fundamentals of Programming) course @IST Instituto Superior Técnico (2023/2024). The coursework was divided into two main Python projects, starting with foundational concepts of grid manipulation and culminating in a fully playable game of Go.
